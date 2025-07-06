@@ -17,7 +17,7 @@ const Projects = () => {
       technologies: ["HTML", "CSS", "JavaScript", "MySQL"],
       category: "Web Development",
       icon: <Globe className="w-8 h-8" />,
-      image: "/images/terapi-house-logo.jpg",
+      image: "/Portfolio-website/images/terapi-house-logo.jpg",
       github: null,
       demo: "https://therabook.bhramadev.com/"
     },
@@ -72,7 +72,7 @@ const Projects = () => {
             >
               {/* Project Image */}
               <div className="h-48 bg-gradient-to-br from-blue-400 to-purple-500 relative overflow-hidden">
-                {project.image.startsWith('/images/') ? (
+                {project.image.startsWith('/Portfolio-website/images/') || project.image.startsWith('/images/') ? (
                   <img 
                     src={project.image} 
                     alt={project.title}

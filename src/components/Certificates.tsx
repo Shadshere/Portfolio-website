@@ -28,7 +28,7 @@ const Certificates = () => {
       description: "Comprehensive training in Microsoft Excel covering advanced formulas, data analysis, pivot tables, and spreadsheet management.",
       skills: ["Excel", "Data Analysis", "Pivot Tables", "Formulas"],
       level: "Intermediate",
-      verifyUrl: "https://drive.google.com/file/d/1OzoKa0sZhbKRZqw5o-Zp4jWeHWwoYm1f/view?usp=sharing"
+      verifyUrl: "https://drive.google.com/file/d/1sfqr6RRITVEHaNwa2BA5LCFVZ4s2kc5O/view?usp=sharing"
     },
     {
       title: "LETS LEARN HTML",

@@ -37,7 +37,7 @@ const Hero = () => {
               <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-400 via-purple-500 to-blue-600 p-1 animate-pulse">
                 <div className="w-full h-full rounded-full bg-white dark:bg-gray-900 p-2">
                   <img
-                    src="/images/profile-picture.jpg"
+                    src="/Portfolio-website/images/profile-picture.jpg"
                     alt="Amirul Arshad"
                     className="w-full h-full rounded-full object-cover shadow-2xl"
                   />
